@@ -16,6 +16,23 @@
       "message": "Can\u0027t you fix mainline makefiles instead? What about just adding back what is needed instead of the entire revert?",
       "revId": "4e864d3b6ccb478331954a8c903c0fe558becf38",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1f438fb4_07c4da4f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2025-02-15T18:27:56Z",
+      "side": 1,
+      "message": "You probably have an old GPSU drop, looking at the usage in old releases for V it seems to me it was only used for the primary libs stuff, and they don\u0027t even use the prefer prop anymore, just use apex_set instead.",
+      "revId": "4e864d3b6ccb478331954a8c903c0fe558becf38",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
