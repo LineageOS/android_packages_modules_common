@@ -33,6 +33,42 @@
       "message": "You probably have an old GPSU drop, looking at the usage in old releases for V it seems to me it was only used for the primary libs stuff, and they don\u0027t even use the prefer prop anymore, just use apex_set instead.",
       "revId": "4e864d3b6ccb478331954a8c903c0fe558becf38",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4a04232b_3b51058d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28232
+      },
+      "writtenOn": "2025-02-16T08:00:13Z",
+      "side": 1,
+      "message": "This worked. I have restored what\u0027s required only.",
+      "parentUuid": "08387015_7f896dfd",
+      "revId": "4e864d3b6ccb478331954a8c903c0fe558becf38",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "af1b8322_c77e4489",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28232
+      },
+      "writtenOn": "2025-02-16T08:00:13Z",
+      "side": 1,
+      "message": "This is tested against M-2025-01 which is released against FRC and that\u0027s why Google is not aware of this issue.",
+      "parentUuid": "1f438fb4_07c4da4f",
+      "revId": "4e864d3b6ccb478331954a8c903c0fe558becf38",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
